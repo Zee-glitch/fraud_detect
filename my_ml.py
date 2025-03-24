@@ -9,3 +9,6 @@ def model2():
 
 def model3():
     print("model3 is implemented")
+    
+    
+print('model2 is performing well')
